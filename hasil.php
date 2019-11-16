@@ -51,6 +51,7 @@
                             <th scope="col">JENIS BAYAR</th>
                             <th scope="col">JENIS MEMBER</th>
                             <th scope="col">DISKON</th>
+                            <th scope="col">TOTAL BAYAR</th>
                             </tr>
                         </thead>
                         <tbody>
