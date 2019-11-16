@@ -89,13 +89,13 @@
                             <label for="" class="col-3">Diskon</label>
                             <div class="col">
                                 <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="radio" name="ck1" id="inlineradio1" value="10%">
+                                <input class="form-check-input" type="radio" name="diskon" id="inlineradio1" value="10%">
                                 <label class="form-check-label" for="inlineradio1">10%</label>
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="radio" name="ck2" id="inlineradio1" value="20%">
+                                <input class="form-check-input" type="radio" name="diskon" id="inlineradio1" value="20%">
                                 <label class="form-check-label" for="inlineradio1">20%</label>
                                 </div>
                             </div>
